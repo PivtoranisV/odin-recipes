@@ -1,3 +1,3 @@
 # odin-recipes
-My First purely HTML project
-This project is just to build my HTML chops, I will put all my basic knowledge about HTML what I learn with The Odin Project so far
+My First HTML + Basic CSS project
+This project is just to build my HTML,CSS chops, I will put all my basic knowledge about HTML/CSS what I learn with The Odin Project so far
